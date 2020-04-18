@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<ArrayOfArrayOfProduct xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" />  <ArrayOfProduct>
+    <Product>
+      <Name>bnm</Name>
+      <Number>456</Number>
+      <Type>Одежда</Type>
+      <Size>Большой</Size>
+      <DateTime>2020-03-02T22:44:10.6579221+03:00</DateTime>
+      <Weight>до 1000 г</Weight>
+      <Count>1</Count>
+      <Price>10</Price>
+      <Producer>
+        <Organization>vghbn</Organization>
+        <Country>fgvh</Country>
+        <Address>fgvh</Address>
+        <Phone>4567</Phone>
+      </Producer>
+    </Product>
+    <Product>
+      <Name>fcgvh</Name>
+      <Number>456</Number>
+      <Type>Одежда</Type>
+      <Size>Большой</Size>
+      <DateTime>2020-03-02T22:44:10.6579221+03:00</DateTime>
+      <Weight>до 1000 г</Weight>
+      <Count>1</Count>
+      <Price>10</Price>
+      <Producer>
+        <Organization>vghbn</Organization>
+        <Country>fgvh</Country>
+        <Address>fgvh</Address>
+        <Phone>4567</Phone>
+      </Producer>
+    </Product>
+  </ArrayOfProduct>
+</ArrayOfArrayOfProduct>

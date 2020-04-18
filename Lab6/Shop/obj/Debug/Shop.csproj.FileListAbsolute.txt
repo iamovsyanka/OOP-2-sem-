@@ -1,0 +1,21 @@
+D:\2 курс\4 семестр\C#\Лабы\Lab6\Shop\bin\Debug\Shop.dll
+D:\2 курс\4 семестр\C#\Лабы\Lab6\Shop\bin\Debug\Shop.pdb
+D:\2 курс\4 семестр\C#\Лабы\Lab6\Shop\obj\Debug\Shop.csprojAssemblyReference.cache
+D:\2 курс\4 семестр\C#\Лабы\Lab6\Shop\obj\Debug\Shop.dll
+D:\2 курс\4 семестр\C#\Лабы\Lab6\Shop\obj\Debug\Shop.pdb
+E:\Lab6\Shop\bin\Debug\Shop.dll
+E:\Lab6\Shop\bin\Debug\Shop.pdb
+E:\Lab6\Shop\obj\Debug\Shop.csprojAssemblyReference.cache
+E:\Lab6\Shop\obj\Debug\Shop.csproj.CoreCompileInputs.cache
+E:\Lab6\Shop\obj\Debug\Shop.dll
+E:\Lab6\Shop\obj\Debug\Shop.pdb
+F:\Lab6\Shop\bin\Debug\Shop.dll
+F:\Lab6\Shop\bin\Debug\Shop.pdb
+F:\Lab6\Shop\obj\Debug\Shop.csprojAssemblyReference.cache
+F:\Lab6\Shop\obj\Debug\Shop.dll
+F:\Lab6\Shop\obj\Debug\Shop.pdb
+C:\Users\Onya\Desktop\Lab6\Shop\bin\Debug\Shop.dll
+C:\Users\Onya\Desktop\Lab6\Shop\bin\Debug\Shop.pdb
+C:\Users\Onya\Desktop\Lab6\Shop\obj\Debug\Shop.csprojAssemblyReference.cache
+C:\Users\Onya\Desktop\Lab6\Shop\obj\Debug\Shop.dll
+C:\Users\Onya\Desktop\Lab6\Shop\obj\Debug\Shop.pdb

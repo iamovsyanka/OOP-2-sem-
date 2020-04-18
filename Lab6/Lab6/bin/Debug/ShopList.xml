@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<ShopList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Products>
+    <Product>
+      <Name>енепрно</Name>
+      <Number>456</Number>
+      <Type>Одежда</Type>
+      <Size />
+      <DateTime>2020-03-07T14:17:38.6072836+03:00</DateTime>
+      <Weight>от 1000 г</Weight>
+      <Count>1</Count>
+      <Price>10</Price>
+      <Producer>
+        <Organization>апро</Organization>
+        <Country>укеапр</Country>
+        <Address>увкап</Address>
+        <Phone>456</Phone>
+      </Producer>
+    </Product>
+    <Product>
+      <Name>ае</Name>
+      <Number>456</Number>
+      <Type>Одежда</Type>
+      <Size />
+      <DateTime>2020-03-07T14:17:38.6072836+03:00</DateTime>
+      <Weight>от 1000 г</Weight>
+      <Count>1</Count>
+      <Price>10</Price>
+      <Producer>
+        <Organization>апро</Organization>
+        <Country>укеапр</Country>
+        <Address>увкап</Address>
+        <Phone>456</Phone>
+      </Producer>
+    </Product>
+    <Product>
+      <Name>отрг</Name>
+      <Number>456</Number>
+      <Type>Еда</Type>
+      <Size>Средний</Size>
+      <DateTime>2020-03-07T14:17:38.6072836+03:00</DateTime>
+      <Weight>от 1000 г</Weight>
+      <Count>1</Count>
+      <Price>10</Price>
+      <Producer>
+        <Organization>апро</Organization>
+        <Country>укеапр</Country>
+        <Address>увкап</Address>
+        <Phone>456</Phone>
+      </Producer>
+    </Product>
+  </Products>
+</ShopList>
