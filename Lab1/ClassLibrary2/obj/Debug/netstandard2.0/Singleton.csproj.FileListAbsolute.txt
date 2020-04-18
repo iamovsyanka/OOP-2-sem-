@@ -1,0 +1,17 @@
+D:\2 курс\4 семестр\С#\Лабы\Lab1\ClassLibrary2\bin\Debug\netstandard2.0\Singleton.deps.json
+D:\2 курс\4 семестр\С#\Лабы\Lab1\ClassLibrary2\bin\Debug\netstandard2.0\Singleton.dll
+D:\2 курс\4 семестр\С#\Лабы\Lab1\ClassLibrary2\bin\Debug\netstandard2.0\Singleton.pdb
+D:\2 курс\4 семестр\С#\Лабы\Lab1\ClassLibrary2\obj\Debug\netstandard2.0\Singleton.csprojAssemblyReference.cache
+D:\2 курс\4 семестр\С#\Лабы\Lab1\ClassLibrary2\obj\Debug\netstandard2.0\Singleton.csproj.CoreCompileInputs.cache
+D:\2 курс\4 семестр\С#\Лабы\Lab1\ClassLibrary2\obj\Debug\netstandard2.0\Singleton.AssemblyInfoInputs.cache
+D:\2 курс\4 семестр\С#\Лабы\Lab1\ClassLibrary2\obj\Debug\netstandard2.0\Singleton.AssemblyInfo.cs
+D:\2 курс\4 семестр\С#\Лабы\Lab1\ClassLibrary2\obj\Debug\netstandard2.0\Singleton.dll
+D:\2 курс\4 семестр\С#\Лабы\Lab1\ClassLibrary2\obj\Debug\netstandard2.0\Singleton.pdb
+D:\2 курс\4 семестр\C#\Лабы\Lab1\ClassLibrary2\bin\Debug\netstandard2.0\Singleton.deps.json
+D:\2 курс\4 семестр\C#\Лабы\Lab1\ClassLibrary2\bin\Debug\netstandard2.0\Singleton.dll
+D:\2 курс\4 семестр\C#\Лабы\Lab1\ClassLibrary2\bin\Debug\netstandard2.0\Singleton.pdb
+D:\2 курс\4 семестр\C#\Лабы\Lab1\ClassLibrary2\obj\Debug\netstandard2.0\Singleton.csprojAssemblyReference.cache
+D:\2 курс\4 семестр\C#\Лабы\Lab1\ClassLibrary2\obj\Debug\netstandard2.0\Singleton.AssemblyInfoInputs.cache
+D:\2 курс\4 семестр\C#\Лабы\Lab1\ClassLibrary2\obj\Debug\netstandard2.0\Singleton.AssemblyInfo.cs
+D:\2 курс\4 семестр\C#\Лабы\Lab1\ClassLibrary2\obj\Debug\netstandard2.0\Singleton.dll
+D:\2 курс\4 семестр\C#\Лабы\Lab1\ClassLibrary2\obj\Debug\netstandard2.0\Singleton.pdb

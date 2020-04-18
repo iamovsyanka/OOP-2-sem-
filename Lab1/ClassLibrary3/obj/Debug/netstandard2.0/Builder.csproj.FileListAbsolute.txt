@@ -1,0 +1,17 @@
+D:\2 курс\4 семестр\С#\Лабы\Lab1\ClassLibrary3\bin\Debug\netstandard2.0\Builder.deps.json
+D:\2 курс\4 семестр\С#\Лабы\Lab1\ClassLibrary3\bin\Debug\netstandard2.0\Builder.dll
+D:\2 курс\4 семестр\С#\Лабы\Lab1\ClassLibrary3\bin\Debug\netstandard2.0\Builder.pdb
+D:\2 курс\4 семестр\С#\Лабы\Lab1\ClassLibrary3\obj\Debug\netstandard2.0\Builder.csprojAssemblyReference.cache
+D:\2 курс\4 семестр\С#\Лабы\Lab1\ClassLibrary3\obj\Debug\netstandard2.0\Builder.csproj.CoreCompileInputs.cache
+D:\2 курс\4 семестр\С#\Лабы\Lab1\ClassLibrary3\obj\Debug\netstandard2.0\Builder.AssemblyInfoInputs.cache
+D:\2 курс\4 семестр\С#\Лабы\Lab1\ClassLibrary3\obj\Debug\netstandard2.0\Builder.AssemblyInfo.cs
+D:\2 курс\4 семестр\С#\Лабы\Lab1\ClassLibrary3\obj\Debug\netstandard2.0\Builder.dll
+D:\2 курс\4 семестр\С#\Лабы\Lab1\ClassLibrary3\obj\Debug\netstandard2.0\Builder.pdb
+D:\2 курс\4 семестр\C#\Лабы\Lab1\ClassLibrary3\bin\Debug\netstandard2.0\Builder.deps.json
+D:\2 курс\4 семестр\C#\Лабы\Lab1\ClassLibrary3\bin\Debug\netstandard2.0\Builder.dll
+D:\2 курс\4 семестр\C#\Лабы\Lab1\ClassLibrary3\bin\Debug\netstandard2.0\Builder.pdb
+D:\2 курс\4 семестр\C#\Лабы\Lab1\ClassLibrary3\obj\Debug\netstandard2.0\Builder.csprojAssemblyReference.cache
+D:\2 курс\4 семестр\C#\Лабы\Lab1\ClassLibrary3\obj\Debug\netstandard2.0\Builder.AssemblyInfoInputs.cache
+D:\2 курс\4 семестр\C#\Лабы\Lab1\ClassLibrary3\obj\Debug\netstandard2.0\Builder.AssemblyInfo.cs
+D:\2 курс\4 семестр\C#\Лабы\Lab1\ClassLibrary3\obj\Debug\netstandard2.0\Builder.dll
+D:\2 курс\4 семестр\C#\Лабы\Lab1\ClassLibrary3\obj\Debug\netstandard2.0\Builder.pdb

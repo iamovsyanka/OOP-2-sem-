@@ -1,0 +1,11 @@
+D:\2 курс\4 семестр\С#\Лабы\Lab2\Decorator\bin\Debug\Decorator.dll
+D:\2 курс\4 семестр\С#\Лабы\Lab2\Decorator\bin\Debug\Decorator.pdb
+D:\2 курс\4 семестр\С#\Лабы\Lab2\Decorator\obj\Debug\Decorator.csprojAssemblyReference.cache
+D:\2 курс\4 семестр\С#\Лабы\Lab2\Decorator\obj\Debug\Decorator.csproj.CoreCompileInputs.cache
+D:\2 курс\4 семестр\С#\Лабы\Lab2\Decorator\obj\Debug\Decorator.dll
+D:\2 курс\4 семестр\С#\Лабы\Lab2\Decorator\obj\Debug\Decorator.pdb
+D:\2 курс\4 семестр\C#\Лабы\Lab2\Decorator\bin\Debug\Decorator.dll
+D:\2 курс\4 семестр\C#\Лабы\Lab2\Decorator\bin\Debug\Decorator.pdb
+D:\2 курс\4 семестр\C#\Лабы\Lab2\Decorator\obj\Debug\Decorator.csprojAssemblyReference.cache
+D:\2 курс\4 семестр\C#\Лабы\Lab2\Decorator\obj\Debug\Decorator.dll
+D:\2 курс\4 семестр\C#\Лабы\Lab2\Decorator\obj\Debug\Decorator.pdb

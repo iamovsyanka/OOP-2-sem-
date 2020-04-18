@@ -1,0 +1,11 @@
+D:\2 курс\4 семестр\С#\Лабы\Lab2\Adapter\bin\Debug\Adapter.dll
+D:\2 курс\4 семестр\С#\Лабы\Lab2\Adapter\bin\Debug\Adapter.pdb
+D:\2 курс\4 семестр\С#\Лабы\Lab2\Adapter\obj\Debug\Adapter.csprojAssemblyReference.cache
+D:\2 курс\4 семестр\С#\Лабы\Lab2\Adapter\obj\Debug\Adapter.csproj.CoreCompileInputs.cache
+D:\2 курс\4 семестр\С#\Лабы\Lab2\Adapter\obj\Debug\Adapter.dll
+D:\2 курс\4 семестр\С#\Лабы\Lab2\Adapter\obj\Debug\Adapter.pdb
+D:\2 курс\4 семестр\C#\Лабы\Lab2\Adapter\bin\Debug\Adapter.dll
+D:\2 курс\4 семестр\C#\Лабы\Lab2\Adapter\bin\Debug\Adapter.pdb
+D:\2 курс\4 семестр\C#\Лабы\Lab2\Adapter\obj\Debug\Adapter.csprojAssemblyReference.cache
+D:\2 курс\4 семестр\C#\Лабы\Lab2\Adapter\obj\Debug\Adapter.dll
+D:\2 курс\4 семестр\C#\Лабы\Lab2\Adapter\obj\Debug\Adapter.pdb

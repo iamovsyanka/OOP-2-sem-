@@ -1,0 +1,11 @@
+D:\2 курс\4 семестр\С#\Лабы\Lab2\Map\bin\Debug\Map.dll
+D:\2 курс\4 семестр\С#\Лабы\Lab2\Map\bin\Debug\Map.pdb
+D:\2 курс\4 семестр\С#\Лабы\Lab2\Map\obj\Debug\Map.csprojAssemblyReference.cache
+D:\2 курс\4 семестр\С#\Лабы\Lab2\Map\obj\Debug\Map.csproj.CoreCompileInputs.cache
+D:\2 курс\4 семестр\С#\Лабы\Lab2\Map\obj\Debug\Map.dll
+D:\2 курс\4 семестр\С#\Лабы\Lab2\Map\obj\Debug\Map.pdb
+D:\2 курс\4 семестр\C#\Лабы\Lab2\Map\bin\Debug\Map.dll
+D:\2 курс\4 семестр\C#\Лабы\Lab2\Map\bin\Debug\Map.pdb
+D:\2 курс\4 семестр\C#\Лабы\Lab2\Map\obj\Debug\Map.csprojAssemblyReference.cache
+D:\2 курс\4 семестр\C#\Лабы\Lab2\Map\obj\Debug\Map.dll
+D:\2 курс\4 семестр\C#\Лабы\Lab2\Map\obj\Debug\Map.pdb
