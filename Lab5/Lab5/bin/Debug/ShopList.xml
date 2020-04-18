@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<ShopList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Products>
+    <Product>
+      <Name>апмри</Name>
+      <Number>5678</Number>
+      <Type>Одежда</Type>
+      <Size>Малый</Size>
+      <DateTime>2020-02-29T13:55:05.5589791+03:00</DateTime>
+      <Weight>неизвестно</Weight>
+      <Count>1</Count>
+      <Price>10</Price>
+      <Producer>
+        <Organization>мит</Organization>
+        <Country>приот</Country>
+        <Address>пмрито</Address>
+        <Phone>4567</Phone>
+      </Producer>
+    </Product>
+    <Product>
+      <Name>епро</Name>
+      <Number>4567</Number>
+      <Type>Прочее</Type>
+      <Size>Малый</Size>
+      <DateTime>2020-02-29T13:55:27.5421828+03:00</DateTime>
+      <Weight>неизвестно</Weight>
+      <Count>1</Count>
+      <Price>10</Price>
+      <Producer>
+        <Organization>пмриот</Organization>
+        <Country>пмриотл</Country>
+        <Address>пмрио</Address>
+        <Phone>4567</Phone>
+      </Producer>
+    </Product>
+  </Products>
+</ShopList>
