@@ -1,0 +1,11 @@
+D:\2 курс\4 семестр\С#\Лабы\Lab3\Command\bin\Debug\Command.dll
+D:\2 курс\4 семестр\С#\Лабы\Lab3\Command\bin\Debug\Command.pdb
+D:\2 курс\4 семестр\С#\Лабы\Lab3\Command\obj\Debug\Command+Memento+State.csprojAssemblyReference.cache
+D:\2 курс\4 семестр\С#\Лабы\Lab3\Command\obj\Debug\Command+Memento+State.csproj.CoreCompileInputs.cache
+D:\2 курс\4 семестр\С#\Лабы\Lab3\Command\obj\Debug\Command.dll
+D:\2 курс\4 семестр\С#\Лабы\Lab3\Command\obj\Debug\Command.pdb
+D:\2 курс\4 семестр\C#\Лабы\Lab3\Command\bin\Debug\Command.dll
+D:\2 курс\4 семестр\C#\Лабы\Lab3\Command\bin\Debug\Command.pdb
+D:\2 курс\4 семестр\C#\Лабы\Lab3\Command\obj\Debug\Command+Memento+State.csprojAssemblyReference.cache
+D:\2 курс\4 семестр\C#\Лабы\Lab3\Command\obj\Debug\Command.dll
+D:\2 курс\4 семестр\C#\Лабы\Lab3\Command\obj\Debug\Command.pdb
