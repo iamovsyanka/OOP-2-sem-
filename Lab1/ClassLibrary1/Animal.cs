@@ -5,6 +5,7 @@
         private IGreeting greeting;
         private IEating eating;
         private static int count=0;
+
         public int Count => count;
 
         public Animal(AnimalFactory farmFactory)

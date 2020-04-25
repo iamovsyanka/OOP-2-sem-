@@ -3,6 +3,7 @@
     public abstract class AnimalFactory
     {
         public abstract IGreeting CreateGreeting();
+
         public abstract IEating CreateEating();
     }
 }

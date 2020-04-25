@@ -10,6 +10,7 @@ namespace Lab1.Singleton
         { }
 
         public string Name { get; private set; }
+
         public Guid guid;
 
         public static GoldPig GetGoldPig()
