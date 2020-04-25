@@ -2,7 +2,7 @@
 {
     public class PigToMiniPigAdapter : IMiniPig
     {
-        Pig pig;
+        private Pig pig;
         public PigToMiniPigAdapter(Pig pi)
         {
             pig = pi;

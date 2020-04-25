@@ -6,6 +6,7 @@ namespace MapComposite
     public class Map : IComponent
     {
         private readonly List<IComponent> _map = new List<IComponent>();
+
         public string Title { get; set; }
 
         public void AddComponent(IComponent component) => _map.Add(component);
