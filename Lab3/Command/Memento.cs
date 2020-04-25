@@ -30,6 +30,7 @@ namespace Lab3
     public class HeroMemento
     {
         public int Cash { get; private set; }
+
         public DateTime Date { get; private set; }
 
         public HeroMemento(int cash, DateTime date)
@@ -41,6 +42,7 @@ namespace Lab3
     public class Restorer
     {
         public Stack<HeroMemento> History { get; private set; }
+
         public Restorer() => History = new Stack<HeroMemento>();
     }
 }
